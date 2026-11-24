@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "AI Mode API Demo",
+  "version": "0.1.0",
+  "description": "Query Google AI Mode through the local reverse-engineered API.",
+  "permissions": ["cookies"],
+  "host_permissions": [
+    "https://www.google.com/",
+    "http://localhost:8000/"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
