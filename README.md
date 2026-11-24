@@ -1,3 +1,16 @@
+this is mostly made so i can past it into a coding agent whenever i need free ai in an extension and it doesnt have to rereverseengineer it again
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
 # Free (unofficial) Google AI Mode API
 
 A tiny local HTTP server that wraps Google's **AI Mode** (`google.com/search?udm=50`)
